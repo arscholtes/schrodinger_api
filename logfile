@@ -1,0 +1,11 @@
+2024-01-06 15:11:30.819 EST [18888] LOG:  starting PostgreSQL 14.10 (Homebrew) on x86_64-apple-darwin23.0.0, compiled by Apple clang version 15.0.0 (clang-1500.0.40.1), 64-bit
+2024-01-06 15:11:30.821 EST [18888] LOG:  listening on IPv6 address "::1", port 5432
+2024-01-06 15:11:30.821 EST [18888] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-01-06 15:11:30.822 EST [18888] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2024-01-06 15:11:30.825 EST [18889] LOG:  database system was shut down at 2024-01-06 15:11:19 EST
+2024-01-06 15:11:30.829 EST [18888] LOG:  database system is ready to accept connections
+2024-01-06 15:11:39.643 EST [18909] FATAL:  database "schrodinger_api_development" does not exist
+2024-01-06 22:13:25.316 EST [18888] LOG:  received smart shutdown request
+2024-01-06 22:13:25.318 EST [18888] LOG:  background worker "logical replication launcher" (PID 18895) exited with exit code 1
+2024-01-06 22:13:25.318 EST [18890] LOG:  shutting down
+2024-01-06 22:13:25.328 EST [18888] LOG:  database system is shut down
